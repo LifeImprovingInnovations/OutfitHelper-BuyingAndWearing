@@ -1,4 +1,4 @@
-# OutfitHelper - Buying and wearing
+# OutfitHelper - buying and wearing
 
 # Tell us what your idea is.
 	My idea is to help all the women to know what to buy (or not buy) or wear, depending on that, what they have (bought) already.

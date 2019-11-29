@@ -1,7 +1,7 @@
-# OutfitHelper-BuyingAndWearing
+# OutfitHelper - Buying and wearing
 
 # Tell us what your idea is.
-	My idea is to help all the women to know what to buy (or not buy) or wear, depending on that, what they have (bought) already.
+	#My idea is to help all the women to know what to buy (or not buy) or wear, depending on that, what they have (bought) already.
 	They will take pictures of all the things (clothes, shoes, cosmetics) what they have, it will be sorted from ML Kit and TensorFlow by categories, colors, sizes and so on.
 	When they want to wear something and don't know how to combine the clothes, shoes and cosmetics, the ML Kit and TensorFlow will help them to do that (also may propose to buy some stuff, based on that, what they like and what they have).
 	When they are in the shop, the app will help them not to buy the same stuff (same models, colors and so on) which they already have.

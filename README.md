@@ -1,27 +1,19 @@
 # OutfitHelper-BuyingAndWearing
 
-#Tell us what your idea is. 
+Tell us what your idea is. 
 	My idea is to help all the women to know what to buy (or not buy) or wear, depending on that, what they have (bought) already.
-	They will take pictures of all the things (clothes, shoes, cosmetics) what they have, it will be sorted by categories.
-	They
-
-
+	They will take pictures of all the things (clothes, shoes, cosmetics) what they have, it will be sorted from ML Kit and TensorFlow by categories, colors, sizes and so on.
+	When they want to wear something and don't know how to combine the clothes, shoes and cosmetics, the ML Kit and TensorFlow will help them to do that (also may propose to buy some stuff, based on that, what they like and what they have).
+	When they are in the shop, the app will help them not to buy the same stuff (same models, colors and so on) which they already have.
+	
 
 Tell us how you plan on bringing it to life. 
-Describe where your project is, how you could use Google’s help in the endeavor, and how you plan on using On-Device ML technology to bring the concept to life. The best submissions have a great idea combined with a concrete path of where you plan on going, which should include: 
-(1) any potential sample code you’ve already written, 
-(2) a list of the ways you could use Google’s help, 
-(3) as well as the timeline on how you plan on bringing it to life by May 1, 2020. 
-
+	My project is still on the beginning, because I'm not (yet) very good with the coding, but I'll do my best to bring my idea to life because I believe, that my idea will be very helpful.
+	I will need Google's help for the mentorship of designing my app, using Motion and Material Design, implementing TensorFlow and ML Kit and testing my app.
 
 
 Tell us about you. 
- A great idea is just one part of the equation; we also want to learn a bit more about you. Share with us some of your other projects so we can get an idea of how we can assist you with your project. 
-
-
-
-
-Next steps.  
- 
-Be sure to include this cover letter in your GitHub repository
-Your GitHub repository should be tagged #AndroidDevChallenge
+	My name is Miroslav Madzharov and I'm Bulgarian. I was born in a beautyful city of Smolyan. I'm not speaking very good english, but I speak and write as I can. I also learnd by myself german and russian language, and a bit of serbo-croatian.
+	Computers are my hobby and want to learn coding, just need to start from somewhere.
+	I have no other projects and this project is my very first. I'll do my best to bring this idea to life.
+	I have many other ideas, but idea without support and knowlidge to bring it to life is just a thought.
